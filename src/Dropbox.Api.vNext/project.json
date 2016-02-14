@@ -1,0 +1,27 @@
+﻿{
+    "version": "1.0.0-*",
+    "description": "Dropbox.Api.vNext Class Library",
+    "authors": [ "konstantin" ],
+    "tags": [ "" ],
+    "projectUrl": "",
+    "licenseUrl": "",
+
+    "dependencies": {
+        "Microsoft.CSharp": "4.0.1-beta-23516",
+        "System.Collections": "4.0.11-beta-23516",
+        "System.Linq": "4.0.1-beta-23516",
+        "System.Runtime": "4.0.21-beta-23516",
+        "System.Threading": "4.0.11-beta-23516",
+        "System.Net.Http": "4.0.1-beta-23516",
+        "Newtonsoft.Json": "8.0.2",
+        "System.Text.RegularExpressions": "4.0.11-beta-23516",
+
+    },
+
+    "frameworks": {
+        "dnx451": { },
+        "dnxcore50": {
+
+        }
+    }
+}
